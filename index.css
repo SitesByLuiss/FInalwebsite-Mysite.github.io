@@ -1,0 +1,50 @@
+
+
+
+.nav {
+ text-align: center;
+	size: 50px;
+	border: 1px solid black;
+	background-size: 6.5%;
+color: white;
+padding-top: 25px;
+padding-bottom:25px;
+ justify-content: center;
+ background-color: black;
+ 
+
+}
+
+.herosection {
+	background-image:url('https://dsm01pap008files.storage.live.com/y4mFlY9ehNGRmz4WtHK9ei8XAhWwTPpSHXj71J5NrRbnJpabDpp8rtyuIIPGMjEgoI9GVNtezRBkEtlhSZVybheYqgSFjXZ2Hx7Ou4gNv6dpvz7GtmVVb5kirpSUgAvj3IS48goZ_5uMJtUOEDb7cgZJXieP_E5GhoM-pBaIl1_lQEUesjiaXSrUo-6pOaWk8_W5m_V7dM3PjREXVtyBh0pTBkRr3pUSD4o4_E2sMEi-rU?encodeFailures=1&width=1125&height=750');
+background-size: cover; 
+height:700px;
+align-items:center;
+display:flex; 
+flex-direction:column;
+justify-content: center;
+}
+.herosection h1 {
+text-align:center;
+color:white;
+margin:0;
+
+}
+.herosection p{
+	color:white;
+	
+	
+}
+.paragraph{
+	text-align: left
+}
+button{
+background-color:orange;
+	
+}
+.personalTrainig{
+	height:600px;
+}
+.personalTraining h2{
+	text-align:center;
+	{
